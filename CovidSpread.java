@@ -2,7 +2,7 @@
  * Program Name: Covid Spread
  * Programmer: Moses
  * Date: January 8, 2022
- * Description: Program for Covid Spread problem
+ * Problem Link: https://www.codechef.com/JAN221C/problems/KEPLERSLAW 
  * */
 package covidspread;
 
