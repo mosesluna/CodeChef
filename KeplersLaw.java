@@ -2,7 +2,7 @@
  * Program Name: Keplers Law
  * Programmer: Moses
  * Date: January 8, 2022
- * Description: Program for Kepler's Law Problem
+ * Problem Link: https://www.codechef.com/JAN221C/problems/KEPLERSLAW
  * */
 package keplerslaw;
 
