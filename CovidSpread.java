@@ -2,7 +2,7 @@
  * Program Name: Covid Spread
  * Programmer: Moses
  * Date: January 8, 2022
- * Problem Link: https://www.codechef.com/JAN221C/problems/COVSPRD
+ * Problem Link: https://www.codechef.com/JAN221C/problems/COVSPRD (Solved first subtask, Timelimit Exceeded for second subtask)
  * */
 package covidspread;
 
